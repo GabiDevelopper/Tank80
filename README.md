@@ -1,5 +1,5 @@
 # Tank80
-It's the game battle nes, made with pyxel (python)
+It's the game battle city nes, made with pyxel (python)
 
 <h1>To launch my game</h1>
 You just have to download all the files, <br>
